@@ -1,0 +1,15 @@
+C:\Users\prataps\source\repos\ExcelDemo\ExcelDemo\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Users\prataps\source\repos\ExcelDemo\ExcelDemo\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\prataps\source\repos\ExcelDemo\ExcelDemo\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+C:\Users\prataps\source\repos\ExcelDemo\ExcelDemo\bin\Debug\netcoreapp2.1\ExcelDemo.deps.json
+C:\Users\prataps\source\repos\ExcelDemo\ExcelDemo\bin\Debug\netcoreapp2.1\ExcelDemo.runtimeconfig.json
+C:\Users\prataps\source\repos\ExcelDemo\ExcelDemo\bin\Debug\netcoreapp2.1\ExcelDemo.runtimeconfig.dev.json
+C:\Users\prataps\source\repos\ExcelDemo\ExcelDemo\bin\Debug\netcoreapp2.1\ExcelDemo.dll
+C:\Users\prataps\source\repos\ExcelDemo\ExcelDemo\obj\Debug\netcoreapp2.1\ExcelDemo.RazorAssemblyInfo.cache
+C:\Users\prataps\source\repos\ExcelDemo\ExcelDemo\obj\Debug\netcoreapp2.1\ExcelDemo.RazorAssemblyInfo.cs
+C:\Users\prataps\source\repos\ExcelDemo\ExcelDemo\obj\Debug\netcoreapp2.1\ExcelDemo.AssemblyInfoInputs.cache
+C:\Users\prataps\source\repos\ExcelDemo\ExcelDemo\obj\Debug\netcoreapp2.1\ExcelDemo.AssemblyInfo.cs
+C:\Users\prataps\source\repos\ExcelDemo\ExcelDemo\obj\Debug\netcoreapp2.1\ExcelDemo.RazorTargetAssemblyInfo.cache
+C:\Users\prataps\source\repos\ExcelDemo\ExcelDemo\bin\Debug\netcoreapp2.1\ExcelDemo.pdb
+C:\Users\prataps\source\repos\ExcelDemo\ExcelDemo\obj\Debug\netcoreapp2.1\ExcelDemo.dll
+C:\Users\prataps\source\repos\ExcelDemo\ExcelDemo\obj\Debug\netcoreapp2.1\ExcelDemo.pdb
